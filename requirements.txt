@@ -1,0 +1,6 @@
+apache_log_parser
+pandas
+matplotlib
+jinja2
+pprint
+requests
